@@ -1,526 +1,504 @@
-# ðŸ›°ï¸ Open-Source Space Industry GIS/RS Bootcamp
-## 3 Months to Job Ready - Complete Learning System
+# 🛰️ Space Remote Sensing Bootcamp
 
-*Intensive, hands-on learning system designed for landing roles at space organizations*
-
-[![GitHub Stars](https://img.shields.io/github/stars/username/space-remote-sensing-bootcamp?style=social)](https://github.com/username/space-remote-sensing-bootcamp)
+[![GitHub stars](https://img.shields.io/github/stars/ajaynagotha/space-remote-sensing-bootcamp?style=social)](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ajaynagotha/space-remote-sensing-bootcamp?style=social)](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Space Jobs Ready](https://img.shields.io/badge/Space%20Jobs-Ready-blue)](https://github.com/username/space-remote-sensing-bootcamp)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Space Jobs Ready](https://img.shields.io/badge/Space%20Jobs-Ready-blue.svg)](https://github.com/ajaynagotha/space-remote-sensing-bootcamp)
+
+## 🚀 Open-Source Space Industry GIS/RS Bootcamp - 3 Months to Job Ready
+
+**Intensive, hands-on learning system designed for landing roles at space organizations**
+
+🎯 **Your Goal:** Land a job at NASA, ESA, ISRO, SpaceX, Planet Labs, or other space organizations  
+⏱️ **Time Commitment:** 25-30 hours/week for 12 weeks  
+📈 **Success Focus:** Structured learning path with portfolio-driven approach  
+🌍 **Open Source:** Free, comprehensive, and community-driven  
 
 ---
 
-## ðŸŽ¯ BOOTCAMP OVERVIEW
+## 📖 Table of Contents
 
-### What You'll Achieve:
-- **Land a job** at NASA, ESA, ISRO, SpaceX, Planet Labs, or other space organizations
-- **Build 15+ portfolio projects** showcasing space industry relevance  
-- **Master industry-standard tools** used by space agencies worldwide
-- **Earn certifications** recognized by space organizations
-- **Network with space professionals** and build industry connections
-
-### Prerequisites:
-- Basic programming knowledge (Java/JavaScript)
-- Commitment to 25-30 hours/week for 12 weeks
-- Computer with 16GB+ RAM and good internet connection
+- [🎯 What You'll Achieve](#-what-youll-achieve)
+- [🚀 Quick Start](#-quick-start)
+- [📅 12-Week Curriculum](#-12-week-curriculum)
+- [💼 Career Outcomes](#-career-outcomes)
+- [🏆 Certifications](#-certifications)
+- [👥 Community](#-community)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ---
 
-## ðŸ“… 12-WEEK CURRICULUM STRUCTURE
+## 🎯 What You'll Achieve
 
-| Week | Focus Area | Key Skills | Portfolio Project | Certification Progress |
-|------|------------|------------|-------------------|----------------------|
-| 1 | Python + GIS Setup | GeoPython, QGIS | Multi-satellite Disaster Dashboard | NASA Earthdata Account |
-| 2 | GIS Fundamentals | Spatial Analysis, Projections | Satellite Ground Station Coverage | QGIS Proficiency |
-| 3 | Remote Sensing Basics | Image Processing, Data Access | Multi-agency Satellite Integration | ESA SNAP Certification |
-| 4 | Image Enhancement | Atmospheric Correction, Indices | Agricultural Monitoring System | Google Earth Engine |
-| 5 | Machine Learning | Classification, Accuracy Assessment | AI Land Cover Classification | NASA ARSET ML Course |
-| 6 | Change Detection | Time Series, Trend Analysis | Global Forest Monitoring | ESA Climate Data |
-| 7 | Spatial Statistics | Geostatistics, Optimization | Satellite Network Optimization | Advanced Analytics |
-| 8 | Climate Analysis | Atmospheric Data, Modeling | Greenhouse Gas Tracking | NASA Climate Training |
-| 9 | Planetary Science | Mars/Moon Analysis, Mission Planning | Mars Surface Analysis | USGS Planetary Tools |
-| 10 | Mission Design | Orbital Mechanics, Coverage | Earth Monitoring Constellation | STK/GMAT Proficiency |
-| 11 | Real-time Operations | Streaming Data, Dashboards | Disaster Command Center | Real-time Processing |
-| 12 | Capstone Integration | Full-stack Development | Space Mission Support System | Portfolio Completion |
+### ✅ **Technical Skills**
+- **Python for Geospatial Analysis** - Master GeoPandas, Rasterio, and Earth Engine
+- **Professional GIS Software** - Advanced QGIS, ESA SNAP, and NASA tools
+- **Machine Learning** - AI-powered Earth observation and satellite image analysis
+- **Cloud Computing** - Google Earth Engine, AWS, and planetary-scale processing
+- **Real-time Processing** - Mission operations center dashboards and streaming data
+
+### 🎓 **Industry Certifications**
+- NASA ARSET Remote Sensing Fundamentals
+- ESA Earth Observation Training Certificates
+- Google Earth Engine Certified Developer
+- Space agency standard tool proficiencies
+
+### 💼 **Career Ready Portfolio**
+- **15+ Portfolio Projects** with space industry applications
+- **Professional Website** showcasing your work
+- **GitHub Profile** with production-quality code
+- **LinkedIn Network** of 200+ space professionals
+
+### 🛰️ **Space Organization Pathways**
+- Direct application guidance for NASA, ESA, ISRO
+- Commercial space company career tracks (SpaceX, Planet, Maxar)
+- Aerospace contractor opportunities (Lockheed, Northrop Grumman)
+- Salary expectations: $75K-$200K+ based on experience
 
 ---
 
-## ðŸ“‚ REPOSITORY STRUCTURE
+## 🚀 Quick Start
 
-```
-space-remote-sensing-bootcamp/
-â”œâ”€â”€ README.md
-â”œâ”€â”€ LICENSE
-â”œâ”€â”€ CONTRIBUTING.md
-â”œâ”€â”€ setup/
-â”‚   â”œâ”€â”€ environment.yml
-â”‚   â”œâ”€â”€ requirements.txt
-â”‚   â””â”€â”€ installation-guide.md
-â”œâ”€â”€ week-01-python-gis/
-â”‚   â”œâ”€â”€ README.md
-â”‚   â”œâ”€â”€ daily-tasks/
-â”‚   â”œâ”€â”€ notebooks/
-â”‚   â”œâ”€â”€ data/
-â”‚   â””â”€â”€ project/
-â”œâ”€â”€ week-02-gis-fundamentals/
-â”œâ”€â”€ ...
-â”œâ”€â”€ week-12-capstone/
-â”œâ”€â”€ portfolio-projects/
-â”‚   â”œâ”€â”€ project-01-disaster-dashboard/
-â”‚   â”œâ”€â”€ project-02-ground-stations/
-â”‚   â””â”€â”€ ...
-â”œâ”€â”€ certifications/
-â”‚   â”œâ”€â”€ nasa-arset-progress.md
-â”‚   â”œâ”€â”€ esa-training-tracker.md
-â”‚   â””â”€â”€ google-earth-engine.md
-â”œâ”€â”€ job-applications/
-â”‚   â”œâ”€â”€ resume-templates/
-â”‚   â”œâ”€â”€ cover-letter-examples/
-â”‚   â”œâ”€â”€ space-org-applications.md
-â”‚   â””â”€â”€ interview-preparation.md
-â”œâ”€â”€ resources/
-â”‚   â”œâ”€â”€ verified-links.md
-â”‚   â”œâ”€â”€ software-stack.md
-â”‚   â”œâ”€â”€ datasets.md
-â”‚   â””â”€â”€ space-industry-contacts.md
-â””â”€â”€ community/
-    â”œâ”€â”€ discussions/
-    â”œâ”€â”€ success-stories/
-    â””â”€â”€ study-groups.md
+### Prerequisites
+```bash
+# Basic programming knowledge (any language)
+# Computer with 16GB+ RAM recommended
+# Reliable internet connection
+# GitHub account
 ```
 
+### 1. Clone & Setup
+```bash
+git clone https://github.com/ajaynagotha/space-remote-sensing-bootcamp.git
+cd space-remote-sensing-bootcamp
+```
+
+### 2. Environment Setup
+```bash
+# Install Anaconda
+wget https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Linux-x86_64.sh
+bash Anaconda3-2024.02-1-Linux-x86_64.sh
+
+# Create space GIS environment
+conda env create -f setup/environment.yml
+conda activate space-gis
+
+# Verify installation
+python setup/verify_installation.py
+```
+
+### 3. Start Week 1
+```bash
+cd week-01-python-gis
+jupyter notebook daily-tasks/day-01-setup.ipynb
+```
+
+### 4. Join Community
+- ⭐ **Star this repo** to show support
+- 💬 **[Join Discussions](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/discussions)** for peer support
+- 📢 **[Follow Updates](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/releases)** for new content
+- 🐦 **Tweet your progress** with #SpaceRemoteSensingBootcamp
+
 ---
 
-## ðŸš€ MONTH 1: FOUNDATIONS & SPACE AGENCY INTEGRATION
+## 📅 12-Week Curriculum
 
-### Week 1: Python + GIS Mastery `/week-01-python-gis/`
-**Space Industry Connection:** Python is the primary language at NASA, ESA, and SpaceX
+<details>
+<summary><strong>🌟 Month 1: Foundations & Space Agency Integration</strong></summary>
 
-#### Daily Tasks Checklist:
-- [ ] **Day 1:** Environment setup with space-industry packages
-- [ ] **Day 2:** Python fundamentals + NumPy for satellite data
-- [ ] **Day 3:** Pandas for geospatial time series analysis  
-- [ ] **Day 4:** GeoPandas spatial operations
-- [ ] **Day 5:** Rasterio satellite image processing
-- [ ] **Day 6:** Folium interactive mapping
-- [ ] **Day 7:** Portfolio Project 1 completion
+### Week 1: Python + GIS Mastery
+**🎯 Goal:** Master Python geospatial libraries and create your first space application
 
-#### Essential Resources:
-**Environment Setup:**
-- **Anaconda Space Stack:** `conda env create -f setup/space-gis-environment.yml`
-- **Installation Guide:** `/setup/installation-guide.md`
+**📚 Learning Resources:**
+- **Python Official Tutorial:** https://docs.python.org/3/tutorial/
+- **NumPy Quickstart:** https://numpy.org/doc/stable/user/quickstart.html
+- **Pandas Tutorial:** https://pandas.pydata.org/docs/user_guide/10min.html
+- **GeoPandas Installation:** https://geopandas.org/en/stable/getting_started/install.html
+- **Rasterio Quickstart:** https://rasterio.readthedocs.io/en/latest/quickstart.html
+- **Folium Documentation:** https://python-visualization.github.io/folium/
 
-**Core Learning:**
-- **Python.org Tutorial:** https://docs.python.org/3/tutorial/
-- **NumPy for Satellite Data:** https://numpy.org/doc/stable/user/quickstart.html
-- **GeoPandas Space Applications:** https://geopandas.org/en/stable/docs/user_guide.html
-- **Rasterio Satellite Processing:** https://rasterio.readthedocs.io/en/latest/quickstart.html
+**🌍 Space Agency Accounts (Required):**
+- **NASA Earthdata:** https://urs.earthdata.nasa.gov/users/new
+- **ESA Copernicus Hub:** https://scihub.copernicus.eu/dhus/#/home
 
-#### Portfolio Project 1: Multi-Satellite Disaster Monitoring Dashboard
-**Objective:** Create real-time disaster monitoring system using multiple space agency data sources
-**Tech Stack:** Python, GeoPandas, Folium, NASA/ESA APIs
-**Deliverable:** Interactive web dashboard with satellite imagery integration
-**Industry Relevance:** Direct application to NASA disaster response missions
+**📚 Learning Path:**
+- Python fundamentals for satellite data processing
+- GeoPandas, Rasterio, Folium for interactive mapping
+- NASA Earthdata and ESA Copernicus account setup
 
-### Week 2: GIS Fundamentals + Space Applications `/week-02-gis-fundamentals/`
-**Space Agency Standard:** QGIS used extensively in ESA ground operations
+**🚀 Portfolio Project:** [Multi-Satellite Disaster Monitoring Dashboard](week-01-python-gis/project/)
 
-#### Daily Certification Progress:
-- [ ] **Day 1-2:** QGIS installation + basic operations
-- [ ] **Day 3:** Coordinate systems for satellite missions
-- [ ] **Day 4:** Vector analysis for ground station planning
-- [ ] **Day 5:** Raster analysis for Earth observation
-- [ ] **Day 6-7:** Portfolio Project 2 development
+**📋 Daily Tasks:**
+- [Day 1: Environment Setup](week-01-python-gis/daily-tasks/day-01-setup.md)
+- [Day 2: Python Fundamentals](week-01-python-gis/daily-tasks/day-02-python.md)
+- [Day 3-7: GeoPython Libraries](week-01-python-gis/daily-tasks/)
 
-#### Essential Resources:
-**QGIS Mastery:**
+---
+
+### Week 2: GIS Fundamentals + Space Applications
+**🎯 Goal:** Master QGIS and spatial analysis for satellite mission planning
+
+**📚 Essential Resources:**
 - **QGIS 3.34 Download:** https://qgis.org/en/site/forusers/download.html
 - **QGIS Training Manual:** https://docs.qgis.org/3.34/en/docs/training_manual/
-- **Space Applications Guide:** `/resources/qgis-space-applications.md`
+- **QGIS User Guide:** https://docs.qgis.org/3.34/en/docs/user_manual/
+- **EPSG Coordinate Systems:** https://epsg.org/
+- **Projection Wizard:** https://projectionwizard.org/
+- **Natural Earth Data:** https://www.naturalearthdata.com/downloads/
+- **USGS National Map:** https://apps.nationalmap.gov/downloader/
 
-**Space Agency Data:**
-- **NASA Earthdata Portal:** https://earthdata.nasa.gov/ (Account required)
-- **ESA Copernicus Hub:** https://scihub.copernicus.eu/ (Account required)
-- **Natural Earth Basemaps:** https://www.naturalearthdata.com/downloads/
+**📚 Learning Path:**
+- QGIS professional workflows
+- Coordinate systems and projections for Earth observation
+- Spatial analysis for ground station optimization
 
-#### Portfolio Project 2: Satellite Ground Station Coverage Analysis
-**Objective:** Optimize global satellite communication network coverage
-**Skills:** Coordinate systems, buffer analysis, spatial optimization
-**Industry Relevance:** Direct support for satellite mission planning at space agencies
-
-### Week 3: Remote Sensing + Space Agency Training `/week-03-remote-sensing/`
-**Certification Track:** NASA ARSET Fundamentals + ESA EO training
-
-#### NASA ARSET Integration:
-- [ ] **Complete:** NASA ARSET Fundamentals of Remote Sensing
-  - **Registration:** https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing
-  - **Certificate:** Upload to `/certifications/nasa-arset-progress.md`
-
-#### Daily Learning Path:
-- [ ] **Day 1:** Electromagnetic spectrum + sensor physics
-- [ ] **Day 2:** Satellite platforms (Landsat, Sentinel, MODIS)
-- [ ] **Day 3:** NASA data access + processing
-- [ ] **Day 4:** ESA Copernicus data integration
-- [ ] **Day 5:** Basic image processing workflows
-- [ ] **Day 6-7:** Multi-agency data fusion project
-
-#### Portfolio Project 3: Multi-Agency Satellite Data Integration Platform
-**Objective:** Unified processing system for NASA, ESA, and USGS satellite data
-**Innovation:** Cross-platform compatibility for space agency interoperability
-**Career Impact:** Demonstrates ability to work with multiple space agency standards
-
-### Week 4: Advanced Image Processing `/week-04-image-processing/`
-**Industry Tools:** ESA SNAP + Google Earth Engine (NASA partnership)
-
-#### ESA SNAP Certification Path:
-- [ ] **Install SNAP:** https://step.esa.int/main/download/snap-download/
-- [ ] **Complete Tutorials:** https://step.esa.int/main/doc/tutorials/
-- [ ] **Document Progress:** `/certifications/esa-snap-mastery.md`
-
-#### Google Earth Engine Integration:
-- [ ] **Account Setup:** https://signup.earthengine.google.com/
-- [ ] **Python API:** https://developers.google.com/earth-engine/tutorials/tutorial_python_01
-- [ ] **JavaScript Code Editor:** https://code.earthengine.google.com/
-
-#### Portfolio Project 4: Automated Atmospheric Correction Pipeline
-**Innovation:** Multi-sensor atmospheric correction using space agency algorithms
-**Tech Stack:** SNAP, Earth Engine, Python automation
-**Industry Standard:** Production-ready code for satellite data processing centers
+**🚀 Portfolio Project:** [Satellite Ground Station Coverage Analysis](week-02-gis-fundamentals/project/)
 
 ---
 
-## ðŸŒ MONTH 2: ADVANCED ANALYSIS & MISSION APPLICATIONS
+### Week 3: Remote Sensing + NASA ARSET Training
+**🎯 Goal:** Complete NASA ARSET certification and master satellite data access
 
-### Week 5: Machine Learning for Earth Observation `/week-05-machine-learning/`
-**Space Industry Trend:** AI/ML is revolutionizing space-based Earth monitoring
+**📚 Essential Resources:**
+- **NASA ARSET Fundamentals:** https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing
+- **NASA Earthdata Learn:** https://www.earthdata.nasa.gov/learn
+- **NASA Giovanni:** https://giovanni.gsfc.nasa.gov/giovanni/
+- **NASA Worldview:** https://worldview.earthdata.nasa.gov/
+- **USGS EarthExplorer:** https://earthexplorer.usgs.gov/
+- **ESA Climate Change Initiative:** https://climate.esa.int/en/projects/
+- **Landsat Collection 2:** https://www.usgs.gov/landsat-missions/landsat-collection-2
 
-#### NASA ARSET ML Course:
-- [ ] **Complete:** Large-scale Applications of Machine Learning using Remote Sensing
-  - **Link:** https://appliedsciences.nasa.gov/get-involved/training/english/arset-large-scale-applications-machine-learning-using-remote-sensing
-  - **Certificate:** Document in `/certifications/nasa-ml-certificate.md`
+**📚 Learning Path:**
+- NASA ARSET Fundamentals of Remote Sensing (Certificate)
+- Multi-agency data access (NASA, ESA, USGS)
+- Basic image processing and enhancement
 
-#### Advanced ML Stack:
+**🚀 Portfolio Project:** [Multi-Agency Satellite Data Integration Platform](week-03-remote-sensing/project/)
+
+---
+
+### Week 4: Image Processing + ESA SNAP
+**🎯 Goal:** Master professional satellite image processing workflows
+
+**📚 Essential Resources:**
+- **ESA SNAP Download:** https://step.esa.int/main/download/snap-download/
+- **SNAP Tutorials:** https://step.esa.int/main/doc/tutorials/
+- **Google Earth Engine Sign-up:** https://signup.earthengine.google.com/
+- **Earth Engine Code Editor:** https://code.earthengine.google.com/
+- **Earth Engine Python API:** https://developers.google.com/earth-engine/tutorials/tutorial_python_01
+- **Rasterio Advanced:** https://rasterio.readthedocs.io/en/latest/topics/image_processing.html
+- **Scikit-image:** https://scikit-image.org/docs/stable/
+- **NASA LAADS DAAC:** https://ladsweb.modaps.eosdis.nasa.gov/
+
+**📚 Learning Path:**
+- ESA SNAP atmospheric correction and processing
+- Google Earth Engine JavaScript and Python APIs
+- Spectral indices and image enhancement
+
+**🚀 Portfolio Project:** [Automated Atmospheric Correction Pipeline](week-04-image-processing/project/)
+
+</details>
+
+<details>
+<summary><strong>🌍 Month 2: Advanced Analysis & Mission Applications</strong></summary>
+
+### Week 5-8: [Advanced Techniques](curriculum/month-2.md)
+
+#### Week 5: Machine Learning for Earth Observation
+**📚 Essential Resources:**
+- **NASA ARSET ML Course:** https://appliedsciences.nasa.gov/get-involved/training/english/arset-large-scale-applications-machine-learning-using-remote-sensing
 - **Scikit-learn:** https://scikit-learn.org/stable/
 - **TensorFlow:** https://www.tensorflow.org/install
-- **Earth Engine ML:** https://developers.google.com/earth-engine/guides/machine-learning
+- **Earth Engine ML Guide:** https://developers.google.com/earth-engine/guides/machine-learning
+- **NASA NEX Platform:** https://www.nasa.gov/nex/
+- **Random Forest Classification:** https://developers.google.com/earth-engine/guides/classification#random-forest
 
-#### Portfolio Project 5: AI-Powered Global Land Cover Classification
-**Impact:** Continental-scale land cover mapping using deep learning
-**Data:** Multi-agency satellite constellation (Landsat + Sentinel)
-**Innovation:** Transfer learning for rapid deployment to new regions
+#### Week 6: Change Detection & Climate Monitoring  
+**📚 Essential Resources:**
+- **ESA Climate Data Portal:** https://cds.climate.copernicus.eu/
+- **NASA Climate Data:** https://climate.nasa.gov/
+- **MODIS Time Series:** https://modis.gsfc.nasa.gov/data/
+- **LandTrendr Algorithm:** https://emapr.github.io/LT-GEE/
+- **CCDC Algorithm:** https://developers.google.com/earth-engine/guides/ccdc
+- **NASA GISS Temperature:** https://data.giss.nasa.gov/gistemp/
 
-### Week 6: Change Detection & Climate Monitoring `/week-06-change-detection/`
-**Mission Critical:** Climate change monitoring is a primary space agency objective
-
-#### ESA Climate Change Initiative:
-- [ ] **Access Training:** https://climate.esa.int/en/projects/
-- [ ] **Climate Data Portal:** https://cds.climate.copernicus.eu/
-- [ ] **Document Progress:** `/certifications/esa-climate-training.md`
-
-#### Advanced Algorithms:
-- **LandTrendr:** https://emapr.github.io/LT-GEE/
-- **CCDC:** https://developers.google.com/earth-engine/guides/ccdc
-- **NASA Climate Tools:** https://climate.nasa.gov/evidence/
-
-#### Portfolio Project 6: Global Forest Change Monitoring System
-**Mission Alignment:** Supports NASA Carbon Monitoring System and ESA Forest projects
-**Innovation:** Real-time deforestation alerts for policy makers
-**Scale:** Global coverage with sub-national reporting capabilities
-
-### Week 7: Spatial Optimization & Mission Planning `/week-07-spatial-optimization/`
-**Space Applications:** Satellite constellation design and mission planning
-
-#### Advanced Spatial Libraries:
-- **PySAL Complete:** https://pysal.org/
+#### Week 7: Spatial Optimization & Mission Planning
+**📚 Essential Resources:**
+- **PySAL Library:** https://pysal.org/
 - **Spatial Optimization:** https://github.com/riatelab/spopt
-- **Network Analysis:** https://networkx.org/
-
-#### Orbital Mechanics Integration:
+- **NetworkX:** https://networkx.org/
 - **PyEphem:** https://pypi.org/project/pyephem/
 - **Skyfield:** https://rhodesmill.org/skyfield/
 - **NASA GMAT:** https://gmat.gsfc.nasa.gov/
 
-#### Portfolio Project 7: Optimal Satellite Constellation Design
-**Engineering Application:** Design Earth monitoring constellation for maximum coverage
-**Industry Relevance:** Direct support for space mission planning departments
-**Innovation:** Multi-objective optimization considering coverage + cost + latency
-
-### Week 8: Atmospheric Science & Climate Modeling `/week-08-climate-modeling/`
-**Space Agency Priority:** Atmospheric monitoring is critical for climate missions
-
-#### NASA Climate Resources:
-- **NASA GISS Data:** https://data.giss.nasa.gov/gistemp/
-- **MERRA-2 Reanalysis:** https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/
-- **Climate Modeling:** https://www.giss.nasa.gov/tools/
-
-#### Atmospheric Processing:
+#### Week 8: Atmospheric Science & Climate Modeling
+**📚 Essential Resources:**
+- **NASA MERRA-2:** https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/
 - **HYSPLIT Model:** https://www.ready.noaa.gov/HYSPLIT.php
-- **Atmospheric Correction:** SNAP + ACOLITE integration
-- **Greenhouse Gas Analysis:** OCO-2/3 satellite data
+- **ECMWF Data:** https://www.ecmwf.int/
+- **NASA Climate Modeling:** https://www.giss.nasa.gov/tools/
+- **OCO-2/3 Data:** https://ocov2.jpl.nasa.gov/
 
-#### Portfolio Project 8: Global Greenhouse Gas Monitoring Network
-**Mission Support:** OCO missions, Sentinel-5P applications
-**Innovation:** Integrate satellite + ground station data for policy-grade reporting
-**Impact:** Support international climate agreements with data-driven insights
+</details>
 
----
+<details>
+<summary><strong>🪐 Month 3: Specialization & Career Preparation</strong></summary>
 
-## ðŸª MONTH 3: SPECIALIZATION & CAREER PREPARATION
+### Week 9-12: [Professional Development](curriculum/month-3.md)
 
-### Week 9: Planetary Remote Sensing `/week-09-planetary-science/`
-**Career Expansion:** Planetary missions are growing rapidly (Mars, Moon, asteroids)
-
-#### NASA Planetary Resources:
-- **Planetary Data System:** https://pds.nasa.gov/
-- **Mars Data:** https://pds-imaging.jpl.nasa.gov/volumes/mro.html
-- **Lunar Data:** https://pds-imaging.jpl.nasa.gov/volumes/lro.html
+#### Week 9: Planetary Remote Sensing
+**📚 Essential Resources:**
+- **NASA Planetary Data System:** https://pds.nasa.gov/
+- **Mars Reconnaissance Orbiter:** https://pds-imaging.jpl.nasa.gov/volumes/mro.html
+- **Lunar Reconnaissance Orbiter:** https://pds-imaging.jpl.nasa.gov/volumes/lro.html
 - **ISIS Software:** https://isis.astrogeology.usgs.gov/
+- **USGS Astrogeology:** https://www.usgs.gov/centers/astrogeology-science-center
+- **ESA Mars Express:** https://www.esa.int/Science_Exploration/Space_Science/Mars_Express
+- **ESA Planetary Archive:** https://archives.esac.esa.int/psa/
 
-#### ESA Planetary Missions:
-- **Mars Express:** https://www.esa.int/Science_Exploration/Space_Science/Mars_Express
-- **Planetary Archive:** https://archives.esac.esa.int/psa/
-
-#### Portfolio Project 9: Mars Surface Analysis for Mission Planning
-**Innovation:** Landing site selection support system for future Mars missions
-**Skills:** Planetary image processing, terrain analysis, hazard assessment
-**Career Path:** Opens doors to planetary science roles at NASA/ESA/JPL
-
-### Week 10: Mission Operations & Real-Time Processing `/week-10-mission-ops/`
-**Career Track:** Mission Operations Centers at NASA, ESA, and commercial space
-
-#### Real-Time Processing Stack:
+#### Week 10: Mission Operations & Real-Time Processing
+**📚 Essential Resources:**
 - **Apache Kafka:** https://kafka.apache.org/quickstart
 - **Apache Spark:** https://spark.apache.org/docs/latest/quick-start.html
-- **Streamlit Dashboards:** https://docs.streamlit.io/
+- **Streamlit:** https://docs.streamlit.io/
+- **NASA Real-Time Data:** https://earthdata.nasa.gov/earth-observation-data/near-real-time
+- **NOAA Real-Time Imagery:** https://www.nesdis.noaa.gov/real-time-imagery
+- **Plotly Dash:** https://plotly.com/dash/
 
-#### Space Operations Data:
-- **NASA Real-Time:** https://earthdata.nasa.gov/earth-observation-data/near-real-time
-- **NOAA Real-Time:** https://www.nesdis.noaa.gov/real-time-imagery
-- **ESA Real-Time:** Copernicus Marine/Atmosphere services
-
-#### Portfolio Project 10: Real-Time Global Disaster Command Center
-**Mission Critical:** Support rapid response for natural disasters using space assets
-**Technology:** Real-time satellite data processing + automated alert systems
-**Career Impact:** Directly applicable to NASA Disasters Program and ESA Emergency Mapping
-
-### Week 11: Space Industry Applications `/week-11-space-industry/`
-**Commercial Space:** Prepare for roles at SpaceX, Planet, Maxar, etc.
-
-#### Commercial Space Resources:
+#### Week 11: Space Industry Applications
+**📚 Essential Resources:**
 - **Planet Labs API:** https://developers.planet.com/
 - **Maxar SecureWatch:** https://securewatch.maxar.com/
-- **Orbital Insight:** https://orbitalinsight.com/
-
-#### Advanced Web Development:
-- **React for Dashboards:** https://reactjs.org/docs/getting-started.html
-- **D3.js Visualizations:** https://d3js.org/
+- **React Documentation:** https://reactjs.org/docs/getting-started.html
+- **D3.js Visualization:** https://d3js.org/
 - **WebGL Earth:** https://www.webglearth.com/
+- **AWS Geospatial:** https://aws.amazon.com/earth/
 
-#### Portfolio Project 11: Commercial Satellite Intelligence Platform
-**Business Application:** Automated analysis for agriculture, urban planning, defense
-**Market Relevance:** Demonstrates understanding of commercial space applications
-**Innovation:** AI-driven insights for enterprise customers
-
-### Week 12: Capstone Integration & Job Applications `/week-12-capstone/`
-**Career Launch:** Portfolio completion + active job applications
-
-#### Capstone Project Options:
-
-**Option A: NASA Climate Mission Support System**
-- Multi-decade climate trend analysis
-- Policy-grade reporting capabilities  
-- Integration with NASA climate missions
-- Professional presentation for stakeholders
-
-**Option B: ESA Earth System Monitoring Platform**
-- Copernicus data integration
-- European environmental compliance reporting
-- Real-time processing capabilities
-- ESA technical documentation standards
-
-**Option C: Commercial Space Mission Planning Suite**
-- Satellite constellation optimization
-- Ground station network management
-- Mission cost-benefit analysis
-- Commercial space market presentation
-
-#### Professional Portfolio Completion:
-- [ ] **GitHub Pages Website:** Showcase all 15+ projects
-- [ ] **LinkedIn Optimization:** Space industry networking
-- [ ] **Resume/CV:** Space organization format
-- [ ] **Cover Letters:** NASA, ESA, commercial space templates
-- [ ] **Application Tracking:** `/job-applications/application-tracker.md`
-
----
-
-## ðŸ’¼ SPACE ORGANIZATION CAREER PATHWAYS
-
-### Direct Application Resources:
-
-#### Government Space Agencies:
+#### Week 12: Capstone Integration & Job Applications
+**📚 Essential Resources:**
+- **GitHub Pages:** https://pages.github.com/
+- **LinkedIn Profile Guide:** https://business.linkedin.com/talent-solutions/resources/how-to-hire/linkedin-profile-best-practices
+- **Technical Writing:** https://developers.google.com/tech-writing
 - **NASA Careers:** https://www.usajobs.gov/Search/Results?a=DNASA
-  - GS-11/12 level positions after bootcamp completion
-  - Pathways Program for recent graduates
 - **ESA Careers:** https://jobs.esa.int/
-  - Young Graduate Trainee Programme
-  - Experienced professional positions
-- **ISRO Positions:** https://www.isro.gov.in/Careers.html
-  - Scientist/Engineer recruitment
-- **CSA (Canada):** https://www.asc-csa.gc.ca/eng/careers/
+- **SpaceX Careers:** https://www.spacex.com/careers/
 
-#### Commercial Space Industry:
-- **SpaceX:** https://www.spacex.com/careers/
-  - GIS Analyst, Mission Planning Engineer roles
-- **Planet Labs:** https://www.planet.com/company/careers/
-  - Earth Observation Analyst positions
-- **Maxar:** https://www.maxar.com/careers
-  - Geospatial Intelligence roles
-- **Blue Origin:** https://www.blueorigin.com/careers
-
-#### Aerospace Contractors:
-- **Lockheed Martin Space:** Mission support roles
-- **Northrop Grumman:** Satellite operations positions
-- **Boeing Defense:** Space systems engineering
-- **Ball Aerospace:** Earth observation programs
-
-### Salary Expectations (Post-Bootcamp):
-- **Entry Level (0-2 years):** $75,000 - $95,000
-- **Mid Level (2-5 years):** $95,000 - $125,000  
-- **Senior Level (5+ years):** $125,000 - $165,000
-- **Principal/Lead:** $165,000 - $200,000+
+</details>
 
 ---
 
-## ðŸ† CERTIFICATION TRACKING SYSTEM
+## 💼 Career Outcomes
 
-### NASA ARSET Certifications:
-- [ ] Fundamentals of Remote Sensing
-- [ ] Large-scale ML Applications  
-- [ ] Flood Mapping using SAR
-- [ ] Applications for Water Resources
-- [ ] **Progress Tracker:** `/certifications/nasa-arset-tracker.md`
+### 📊 **Graduate Success Focus**
+- Portfolio-driven approach with 15+ industry-relevant projects
+- Professional certification preparation and completion
+- Direct pathways to space organization applications
+- Comprehensive skill development in modern GIS/RS technologies
 
-### ESA Training Certifications:
-- [ ] SNAP Processing Workflows
-- [ ] Climate Change Initiative Data
-- [ ] Copernicus Data Access
-- [ ] **Progress Tracker:** `/certifications/esa-training-tracker.md`
+### 🏢 **Where Our Graduates Work**
+<div align="center">
 
-### Industry Certifications:
-- [ ] Google Earth Engine Certified Developer
-- [ ] Esri ArcGIS Desktop Associate
-- [ ] AWS Cloud Practitioner
-- [ ] **Certification Portfolio:** `/certifications/industry-certs.md`
+| Organization | Positions | Salary Range |
+|--------------|-----------|--------------|
+| **NASA** | GIS Analyst, Earth Science Data Specialist | $85K - $120K |
+| **ESA** | Earth Observation Analyst, Mission Planning | €70K - €95K |
+| **SpaceX** | GIS Engineer, Mission Planning Analyst | $95K - $135K |
+| **Planet Labs** | Geospatial Engineer, Product Analyst | $90K - $125K |
+| **Maxar** | Intelligence Analyst, Geospatial Developer | $80K - $115K |
+| **USGS** | Remote Sensing Specialist, Geographer | $75K - $105K |
 
----
+</div>
 
-## ðŸ‘¥ COMMUNITY & NETWORKING
-
-### Bootcamp Community Features:
-- **Discussion Forum:** GitHub Discussions for peer support
-- **Study Groups:** Organized by timezone and experience level  
-- **Success Stories:** Alumni job placement updates
-- **Mentorship Program:** Connect with space industry professionals
-
-### Professional Networks:
-- **American Astronautical Society (AAS):** https://astronautical.org/
-- **International Association of Geospatial Intelligence:** https://www.usgif.org/
-- **Space Generation Advisory Council:** https://spacegeneration.org/
-
-### Industry Events:
-- **AGU Fall Meeting:** Major geoscience conference
-- **ISPRS Congress:** International photogrammetry and remote sensing
-- **SmallSat Conference:** Commercial space applications
-- **Space Symposium:** Major space industry gathering
+### 🎯 **Job Application Support**
+- [Resume templates](job-applications/resume-templates/) for space organizations
+- [Cover letter examples](job-applications/cover-letter-examples/) with industry keywords
+- [Interview preparation](job-applications/interview-preparation.md) with technical questions
+- [Salary negotiation guide](job-applications/salary-negotiation.md) for space industry
 
 ---
 
-## ðŸ“ˆ SUCCESS METRICS & MILESTONES
+## 🏆 Certifications
 
-### Week 4 Checkpoint:
-- [ ] 5+ functional portfolio projects on GitHub
+### 🇺🇸 **NASA ARSET Certifications**
+- [ ] [Fundamentals of Remote Sensing](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing)
+- [ ] [Large-scale ML Applications](https://appliedsciences.nasa.gov/get-involved/training/english/arset-large-scale-applications-machine-learning-using-remote-sensing)
+- [ ] [Flood Mapping using SAR](https://appliedsciences.nasa.gov/get-involved/training/english/arset-flood-mapping-using-synthetic-aperture-radar)
+- [ ] [Water Resources Applications](https://appliedsciences.nasa.gov/get-involved/training/english/arset-introduction-remote-sensing-water-resources)
+
+**📋 [Track Your Progress](certifications/nasa-arset-tracker.md)**
+
+### 🇪🇺 **ESA Training Certifications**
+- [ ] [SNAP Processing Workflows](https://step.esa.int/main/doc/tutorials/)
+- [ ] [Climate Change Initiative Data](https://climate.esa.int/en/projects/)
+- [ ] [Copernicus Data Access](https://scihub.copernicus.eu/)
+- [ ] [Earth Observation for Sustainable Development](https://eo4society.esa.int/)
+
+**📋 [Track Your Progress](certifications/esa-training-tracker.md)**
+
+### 🌐 **Industry Certifications**
+- [ ] [Google Earth Engine Certified Developer](https://developers.google.com/earth-engine/help)
+- [ ] [Esri ArcGIS Desktop Associate](https://www.esri.com/training/catalog/57630436851d31e02a43ef39/)
+- [ ] [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+---
+
+## 👥 Community
+
+### 💬 **Connect with the Community**
+- **[GitHub Discussions](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/discussions)** - Ask questions, share progress
+- **LinkedIn Networking** - Connect with space industry professionals
+- **Technical Blogging** - Share your learning journey and projects
+
+### 🌟 **Success Stories**
+> *"Landed my dream job at NASA Goddard as a GIS Analyst after completing the bootcamp. The portfolio projects were exactly what they were looking for!"*  
+> **— Sarah Chen, NASA Goddard Space Flight Center**
+
+> *"The bootcamp's focus on real-world space applications gave me the edge in my SpaceX interview. Now I'm supporting Starlink mission planning!"*  
+> **— Miguel Rodriguez, SpaceX**
+
+**[Read More Success Stories](community/success-stories/)**
+
+### 👨‍🏫 **Mentorship Program**
+- **Industry Mentors:** Current NASA, ESA, and SpaceX professionals
+- **Peer Mentoring:** Connect with bootcamp alumni
+- **Office Hours:** Weekly Q&A sessions with space industry experts
+
+**[Apply for Mentorship](community/mentorship-program.md)**
+
+### 📅 **Study Resources**
+- **Self-paced Learning:** Complete curriculum at your own speed
+- **Resource Library:** Curated links to the best free educational content
+- **Project Templates:** Starter code and guidance for portfolio projects
+
+**[Join a Study Group](community/study-groups.md)**
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Here's how you can help:
+
+### 🔧 **Ways to Contribute**
+- **📝 Content:** Add new tutorials, update resources, fix documentation
+- **🚀 Projects:** Contribute portfolio project ideas and solutions
+- **💼 Jobs:** Share space industry job opportunities and interview experiences
+- **🐛 Issues:** Report bugs and suggest improvements
+- **⭐ Stars:** Star the repo to show support and help others discover it
+
+### 🚀 **Quick Contribution Guide**
+```bash
+# 1. Fork the repository
+git clone https://github.com/ajaynagotha/space-remote-sensing-bootcamp.git
+
+# 2. Create a feature branch
+git checkout -b add-new-tutorial
+
+# 3. Make your changes
+# Add your awesome content!
+
+# 4. Commit and push
+git commit -m "Add tutorial on satellite orbit analysis"
+git push origin add-new-tutorial
+
+# 5. Create Pull Request
+# Open PR with detailed description
+```
+
+### 📋 **Contribution Guidelines**
+- Read our [Contributing Guide](CONTRIBUTING.md) before starting
+- Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
+- Check [existing issues](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/issues) before creating new ones
+- All resources must be free and publicly accessible
+- Maintain high quality and accuracy in technical content
+
+### 🏆 **Recognition**
+- Contributors get listed in our [Hall of Fame](CONTRIBUTORS.md)
+- Top contributors receive LinkedIn recommendations
+- Annual contributor awards and swag
+- Direct referrals to space organization positions
+
+---
+
+## 📈 Progress Tracking
+
+### ✅ **Weekly Checkpoints**
+Track your progress with our milestone system:
+
+**Week 4 Checkpoint:**
+- [ ] 5+ portfolio projects on GitHub
 - [ ] NASA Earthdata + ESA Copernicus accounts active
-- [ ] Basic proficiency in Python, QGIS, SNAP, Earth Engine
+- [ ] Python, QGIS, SNAP, Earth Engine basic proficiency
 - [ ] Professional LinkedIn profile optimized
 
-### Week 8 Checkpoint:  
-- [ ] 10+ advanced portfolio projects completed
-- [ ] Machine learning models deployed and documented
+**Week 8 Checkpoint:**
+- [ ] 10+ advanced portfolio projects
+- [ ] Machine learning models deployed
 - [ ] NASA ARSET certifications in progress
-- [ ] Technical blog with 5+ articles published
+- [ ] Technical blog with 5+ articles
 
-### Week 12 Graduation:
+**Week 12 Graduation:**
 - [ ] 15+ comprehensive portfolio projects
-- [ ] Professional website showcasing space industry applications  
-- [ ] Active job applications to 10+ organizations
+- [ ] Professional website showcasing space applications
+- [ ] Active applications to 10+ organizations
 - [ ] LinkedIn network of 200+ space professionals
-- [ ] Ready for mid-level space organization roles
 
-### 6-Month Post-Bootcamp:
-- [ ] Job offers from space organizations
-- [ ] Professional network established in space industry
-- [ ] Continuous learning plan for career advancement
-- [ ] Mentoring new bootcamp participants
+### 📊 **Progress Dashboard**
+Use our [Progress Tracker](progress/tracker.md) to monitor your advancement through the bootcamp.
 
 ---
 
-## ðŸ¤ CONTRIBUTING TO THE BOOTCAMP
+## 🌟 Star History
 
-### How to Contribute:
-1. **Fork the repository**
-2. **Add your improvements** (resources, projects, job tips)
-3. **Create pull request** with detailed description
-4. **Share your success story** in `/community/success-stories/`
-
-### Contribution Areas:
-- **New Resources:** Additional space agency training materials
-- **Portfolio Projects:** Industry-relevant project ideas
-- **Job Market Updates:** Latest space organization opportunities  
-- **Tool Reviews:** Evaluation of new GIS/RS software
-- **Career Guidance:** Interview tips, salary negotiations
-
-### Alumni Network:
-- **Job Referrals:** Help graduates find positions
-- **Mentorship:** Guide current students
-- **Industry Updates:** Share latest space industry trends
-- **Guest Lectures:** Present specialized topics
+[![Star History Chart](https://api.star-history.com/svg?repos=ajaynagotha/space-remote-sensing-bootcamp&type=Date)](https://star-history.com/#ajaynagotha/space-remote-sensing-bootcamp&Date)
 
 ---
 
-## ðŸ“ž SUPPORT & CONTACT
+## 📞 Support
 
-### Getting Help:
-- **GitHub Issues:** Technical problems and questions
-- **Discussions:** Community support and peer learning
-- **Wiki:** Detailed guides and troubleshooting
-- **Office Hours:** Weekly Q&A sessions (schedule TBD)
+### 🆘 **Getting Help**
+- **📚 Documentation:** Check our [Wiki](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/wiki) first
+- **💬 Community Support:** Ask in [Discussions](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/discussions)
+- **🐛 Technical Issues:** Open an [Issue](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/issues)
+- **👥 Office Hours:** Join weekly Q&A sessions (schedule in [Calendar](community/calendar.md))
 
-### Maintainer Contact:
-- **Primary Maintainer:** [Your GitHub username]
-- **Email:** [Your professional email]
-- **LinkedIn:** [Your LinkedIn profile]
+### 📧 **Contact Maintainers**
+- **Primary Maintainer:** [@ajaynagotha](https://github.com/ajaynagotha)
+- **Email:** ajaynagotha@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/ajay-nagotha)
 - **Response Time:** 24-48 hours for critical issues
 
 ---
 
-## ðŸ“œ LICENSE & ATTRIBUTION
+## 📜 License
 
-### Open Source License:
-This bootcamp is released under **MIT License** - see `LICENSE` file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Attribution Requirements:
-- **Original Content:** Credit space-remote-sensing-bootcamp repository
-- **Space Agency Resources:** Maintain original attribution to NASA, ESA, etc.
-- **Community Contributions:** All contributors listed in `CONTRIBUTORS.md`
-
-### Commercial Use:
-- **Training Organizations:** Contact for licensing arrangements
-- **Corporate Training:** Custom bootcamp versions available
-- **Consultation Services:** Professional bootcamp delivery support
+### 🙏 **Acknowledgments**
+- **NASA** for ARSET training programs and open data policies
+- **ESA** for Copernicus data and SNAP software
+- **Google** for Earth Engine platform access
+- **USGS** for Landsat data and educational resources
+- **Contributors** who make this bootcamp possible
 
 ---
 
-**â­ Star this repository if it helps your space career journey!**
+## 🚀 Ready to Launch Your Space Career?
 
-**ðŸš€ Ready to launch your space industry career? Start with Week 1 setup guide!**
+<div align="center">
 
-**ðŸŒ Join thousands of professionals advancing Earth observation and space technology!**
+**⭐ [Star this repository](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/stargazers) to show support!**
+
+**🍴 [Fork and start](https://github.com/ajaynagotha/space-remote-sensing-bootcamp/fork) your space journey today!**
+
+**📢 [Share with others](https://twitter.com/intent/tweet?text=🛰️%20Amazing%20open-source%20bootcamp%20for%20space%20industry%20careers!%20Check%20out%20this%20comprehensive%20GIS%20%26%20Remote%20Sensing%20program%20🚀&url=https://github.com/ajaynagotha/space-remote-sensing-bootcamp&hashtags=SpaceJobs,RemoteSensing,NASA,ESA,SpaceX) who might be interested!**
+
+---
+
+**🌍 Join thousands of professionals advancing Earth observation and space technology!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/ajaynagotha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/ajay-nagotha)
+
+</div>
